@@ -2,7 +2,8 @@
   "meta": {
     "username": "lauesa",
     "repositoryName": "Blog",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "blog.scottlaue.com"
   },
   "theme": {
     "name": "Casper"
