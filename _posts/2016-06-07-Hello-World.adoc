@@ -2,16 +2,28 @@
 Scott Laue <laue.scott@gmail.com>
 V1.0, 2016-06-07
 
-:hp-tags: technical, personal
+:hp-tags: personal
 
 
-Famously, "Test Post, Please Ignore" is the inaugural start to new forums. And "Hello World" is the inaugural start to learning a new programming language. "Hello World" feels more approriate considering asciidoctor will be used extensively for writing here. I do not expect this blog to be a crowning achievement, but rather a place to reflect and process new experiences. +
+Famously, "Test Post, Please Ignore" is the inaugural start to new forums. And "Hello World" is the inaugural start to learning a new programming language. I'm not sure what a blog uses, but "Hello World" feels more approriate considering asciidoctor (markup language) will be used extensively for writing here. You may notice this is not a WordPress/Blogger or other major blog site, but a custom built blog forked from the hubpress.github.io repository. Essentially, setting up this blog let me learn many things about site hosting, css, html, and DNS routing. 
 
-I certainly understand that the web is a place where once you've written something it cannot be recalled. And so my writing will likely be technical in nature, often with asides to myself or links to similar posts. If you should stumble upon this blog by accident or by happy chance, know that I welcome you, but my style is one I've learned over many years and is unlikely to change.
+===== Tags
+
+I've described this as a semi-technical blog and I will try to keep to that in both aspects. I want to start writing more on technical aspects of my studies and keep writing on things related to my hobbies. I separate them the best I can using the tag system, allowing readers at a glance to skip over topics that may not interest them and for me to find things more easily. Sometimes I need to reread a post I've written to remember a salient point or small detail. 
+
+
+.Tag System
+[horizontal]
+* *Knowledge* - the following tags indicate breadth and depth of the post
+- *general* - contains information and discussion that should require no or little jargon
+- *technical* - contains detailed discipline specific jargon/images that may require prior knowledge
+* *Type* - the following tags are types of posts
+- *review* - contains a link to a post/article/book with subsequent discussion, summary, further reading
+* *<topic>* - contains information and discussion on <topic> and combined with the knowledge and type catagories 
+
+===== Disclaimer
 
 This is not an academic blog and while I will endeavor to cite things properly, I will not always succeed. Rather, this blog is for my own reference and collection.
 
-
-IMPORTANT: This blog has a wide focus.
-
+sl
 
