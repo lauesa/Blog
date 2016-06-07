@@ -2,7 +2,7 @@
 Scott Laue <laue.scott@gmail.com>
 V1.0, 2016-06-07
 
-:hp-tags: personal
+:hp-tags: general
 
 
 Famously, "Test Post, Please Ignore" is the inaugural start to new forums. And "Hello World" is the inaugural start to learning a new programming language. I'm not sure what a blog uses, but "Hello World" feels more approriate considering asciidoctor (markup language) will be used extensively for writing here. You may notice this is not a WordPress/Blogger or other major blog site, but a custom built blog forked from the hubpress.github.io repository. Essentially, setting up this blog let me learn many things about site hosting, css, html, and DNS routing. 
