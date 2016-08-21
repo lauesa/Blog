@@ -20,6 +20,7 @@ I've described this as a semi-technical blog and I will try to keep to that in b
 * *Type* - the following tags are types of posts
 - *discussion* - general thoughts and relevant links
 - *review* - contains a link to a post/article/book with subsequent discussion, summary, further reading
+- *journal* - public journal
 * *<topic>* - contains information and discussion on <topic> and combined with the knowledge and type catagories 
 
 ===== Disclaimer
