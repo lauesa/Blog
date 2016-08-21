@@ -1,0 +1,34 @@
+= Week of 8/21/2016
+Scott Laue <laue.scott@gmail.com>
+V1.0, 2016-08-21
+
+:hp-tags: journal
+
+To see a blog without posts is a sad thing. I've written 8 posts about various topics and have yet to publish one. Sometimes it seems vapid to write about "Learning through Gaming" or "Modern uses of the personal Seal", but I think seeing Dr. Gardner recently made me remember Donald Murray's phrase "nulla dies sine linea", 'never a day without a line', and what that means to me.
+
+Motivation matters as much as accountability. So I think my best bet is simply to recount my progress toward becoming better. To me, "better" can simply mean learning something or working toward a goal, to share here. Every line is important, but reading line by line can be tedious (No matter what Twitter tells you). To avoid that, I'll start write throughout the week and publish at the end.
+
+8/21:
+
+Classes for the new semester start Thursday so I'll start the week by finding textbooks (posted ones at least) for the following classes:
+
+COMPUTER ORGANIZATION & ASSEMBLY LANGUAGE PROGRAMMING. 3 Hours. 
+Computer organization from the viewpoint of software, including: the memory hierarchy, instruction set architectures, memory addressing, input-output, integer and floating-point representation and arithmetic. The relationship of higher-level programming languages to the operating system and to instruction set architecture are explored. Some programming in an assembly language.
+
+ALGORITHMS & DATA STRUCTURES. 3 Hours.
+Design and analysis of algorithms with an emphasis on data structures. Approaches to analyzing lower bounds on problems and upper bounds on algorithms. Classical algorithm design techniques including algorithms for sorting, searching, and other operations on data structures such as hash tables, trees, graphs, strings, and advanced data structures, dynamic programming and greedy approaches.
+
+INTRODUCTION TO DIGITAL LOGIC. 4 Hours.
+Analysis, design and testing of combinational and sequential logic circuits. Topics include Boolean algebra, logic circuit minimization techniques, synchronous sequential circuit design, algorithmic state machine design, design of arithmetic/logic and control units. Computer aided design tools and utilized throughout the course.
+
+CIRCUIT ANALYSIS WITH LAB. 4 Hours.
+For non-electrical engineering majors. Basic principles of R, L, and C components. Kirchhoff's laws, network analysis, loop and node equations, basic network theorems. Steady-state AC phasor analysis, operational amplifiers, filtering, and digital circuits. Concurrent laboratory experiments complement lecture topics.
+
+Texts: +
+Computer Organization & Design (Edition: 5th) [x] +
+Electrical Engineering (Edition: 6th) [x] +
+Intro to Algorithms (Edition: 3rd) [x] +
+
+It appears Digital Logic will have handouts so that saves some time. The electrical engineering book requires a code, but buying it seperately will be much cheaper.
+
+8/22:
