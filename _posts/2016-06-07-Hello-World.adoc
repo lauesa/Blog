@@ -18,6 +18,7 @@ I've described this as a semi-technical blog and I will try to keep to that in b
 - *general* - contains information and discussion that should require no or little jargon
 - *technical* - contains detailed discipline specific jargon/images that may require prior knowledge
 * *Type* - the following tags are types of posts
+- *notes* - general reading and research notes over pages listed in title.
 - *discussion* - general thoughts and relevant links
 - *review* - contains a link to a post/article/book with subsequent discussion, summary, further reading
 - *journal* - public journal
