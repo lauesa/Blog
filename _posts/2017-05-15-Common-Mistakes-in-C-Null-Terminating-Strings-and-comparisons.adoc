@@ -1,0 +1,8 @@
+= Common Mistakes in C: Null Terminating Strings and comparisons
+Scott Laue <laue.scott@gmail.com>
+V1.0, 2017-05-15
+
+:hp-tags: journal
+
+Often, introductory programming students are asked to work with strings. Without appropriate time spent and careful language chosen, there are explicit mistakes that should be corrected.
+
