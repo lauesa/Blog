@@ -4,5 +4,43 @@ V1.0, 2017-05-15
 
 :hp-tags: journal
 
-Often, introductory programming students are asked to work with strings. Without appropriate time spent and careful language chosen, there are explicit mistakes that should be corrected.
+Often, introductory programming students are asked to work with strings. Without appropriate time spent and careful language chosen, there are explicit mistakes that should be corrected. These are my mistakes that I've taken the time to express in the format most clear to me.
 
+Strings are create by creating an array of characters that terminates in the null terminator, *\0*. This is an important distinction as the null terminator is frequently used in string processing applications such as *strlen()*.
+
+IMPORTANT: *Character arrays are not strings by default*. 
+
+The presence of the null terminator should not be taken for granted. This can often cause problems when parsing words for the *scanf()* function. Being unmindful of the null terminator can cause significant problems. Knowing the explicit purpose behind the usage of the char array can prevent hours of debugging. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consider the following code snippet:
+
+[source,c]
+----
+char arr1[] = "cat";
+char arr2[] = "cat";
+if (arr1 == arr2){ #<1>
+	printf("Different");
+}else{
+	printf("Same");
+}
+----
+<1> This code will produe
