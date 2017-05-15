@@ -12,8 +12,14 @@ IMPORTANT: *Character arrays are not strings by default*.
 
 The presence of the null terminator should not be taken for granted. This can often cause problems when parsing words for the *scanf()* function. Being unmindful of the null terminator can cause significant problems. Knowing the explicit purpose behind the usage of the char array can prevent hours of debugging. 
 
+One common error associated with incorrect understanding of the null terminator comes from the frequent use of *strlen()* in all levels of coding. Note that this function will return the length of the string _as it is intended to do_ but does not include the null terminator in this count since the function is controlled by the presence of the null terminator.
 
+----
+char cArray[] = {'T','h','i','s','g','o','e','s','o','n'}; #<1>
+----
+<1> using strlen() on this character array can produce varying results depending on where the function runs into a null terminator beyond the array. 
 
+Furthermore, keeping the null terminator in mind when allocating new character arrays can prevent serious problems further down the line.
 
 
 
